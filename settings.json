@@ -1,7 +1,7 @@
 {
-    "originalGuildId": "",
-    "newGuildId": "",
-    "newGuildAdminRoleId": "",
+    "originalGuildId": "765029000253800498",
+    "newGuildId": "1328787549421961307",
+    "newGuildAdminRoleId": "1328787713733689457",
     "cleanup": true,
     "copy": {
         "General": true,
