@@ -13,5 +13,5 @@
     "output": "all",
     "sleepTimeout": 0,
     "debug": false,
-    "token": "MTA1Mzc4NjAxOTMxMDM0NjI3MQ.GElha4.vkRaAPCljTxFd56uicEtBVpWQTwPB1GcfCLNRY"
+    "token": "${DISCORD_TOKEN}"
 }
